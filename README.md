@@ -1,4 +1,4 @@
-Title: English to French Sequence-to-Sequence Translator: Encoder Decoder model
+# Title: English to French Sequence-to-Sequence Translator: Encoder Decoder model
 
 Project Description:
 The "English to French Sequence-to-Sequence Translator" project aims to develop a robust neural network architecture that can accurately translate English sentences into their French counterparts using an encoder-decoder model. 
